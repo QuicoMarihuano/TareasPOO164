@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-//hola uwu
+//hola, profe yo lo amo uwu
 
 class Program
 {
